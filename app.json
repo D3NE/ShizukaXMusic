@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5463205082",
+        "value": "6232458865",
         "required": true
       },
       "STRING_SESSION": {
@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/its-star-boi/ShizukaXMusic",
+        "value": "https://github.com/D3NE/ShizukaXMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
